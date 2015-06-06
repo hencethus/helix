@@ -1,2 +1,2 @@
 # helix
-Experimenting with threejs: http://hencethus.github.io/helix/
+Experimenting with threejs: http://mwmccarthy.github.io/helix/
